@@ -1,0 +1,2 @@
+# ZarApp
+ Zar Atma Uygulaması
